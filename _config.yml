@@ -22,7 +22,7 @@ title: The Lanna Kingdom
 email: zephnorrish@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Explore the wonderful culture, traditions and history of the magical Lanna Kingdom
-baseurl: "Lanna" # the subpath of your site, e.g. /blog
+baseurl: "/lanna" # the subpath of your site, e.g. /blog
 url: "https://zephnorrish.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  zephnorrish
